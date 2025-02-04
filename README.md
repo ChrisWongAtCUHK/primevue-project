@@ -1,3 +1,5 @@
+[primevue-create-vue-issue-template](https://codesandbox.io/p/devbox/primevue-create-vue-issue-template-kw9g6i?file=%2Fsrc%2Fmain.js%3A1%2C1-1%2C64)
+
 # primevue-project
 
 This template should help get you started developing with Vue 3 in Vite.
